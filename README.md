@@ -1,1 +1,1 @@
-# hello_world_java
+# Testing Maven with a Kubernetes activation
